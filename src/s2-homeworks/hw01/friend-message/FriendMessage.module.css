@@ -1,17 +1,26 @@
 .friendMessage {
-
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
 }
 
 .friendImageAndText {
-
+    display: flex;
 }
 
 .friendImageAndText img {
-
+    height: 48px;
+    width: 48px;
 }
 
 .friendText {
-
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 3px;
+    width: 500px;
+    height: 50px;
+    margin-left: 25px;
 }
 
 .friendText:after {
@@ -19,13 +28,25 @@
 }
 
 .friendName {
-
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: #000;
 }
 
 .friendMessageText {
-
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000;
 }
 
 .friendTime {
-
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 10px;
+    color: #000;
+    display: flex;
+    padding-left: 11px;
+    padding-top: 5px;
 }
