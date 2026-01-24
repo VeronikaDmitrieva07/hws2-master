@@ -35,16 +35,16 @@
     color: #fff;
     border-radius: 3px;
     padding: 5px 24px;
-    width: 132px;
-    height: 30px;
+    /*width: 132px;*/
+    /*height: 30px;*/
     background: #06c;
 }
 
 .red {
     border-radius: 3px;
     padding: 5px 24px;
-    width: 129px;
-    height: 30px;
+    /*width: 129px;*/
+    /*height: 30px;*/
     background: #cc1439;
     font-weight: 600;
     font-size: 14px;
@@ -60,15 +60,15 @@
     color: #fff;
     border-radius: 3px;
     padding: 5px 24px;
-    width: 167px;
-    height: 30px;
+    /*width: 167px;*/
+    /*height: 30px;*/
 }
 
 .red:hover {
     border-radius: 3px;
     padding: 5px 24px;
-    width: 167px;
-    height: 30px;
+    /*width: 167px;*/
+    /*height: 30px;*/
     background: #ff1a47;
     font-weight: 600;
     font-size: 14px;
@@ -80,8 +80,8 @@
     border: 1px solid #06c;
     border-radius: 3px;
     padding: 5px 24px;
-    width: 167px;
-    height: 30px;
+    /*width: 167px;*/
+    /*height: 30px;*/
     background: #e5f0fa;
     font-weight: 600;
     font-size: 14px;
