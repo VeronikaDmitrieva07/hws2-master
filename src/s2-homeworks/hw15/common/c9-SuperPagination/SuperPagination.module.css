@@ -1,5 +1,7 @@
 .pagination {
     display: flex;
+    align-items: center;
+    margin: 0 0 10px 0;
 }
 
 .text1 {
@@ -8,4 +10,10 @@
 
 .text2 {
 
+}
+
+.pagination select {
+    width: 35px;
+    height: 24px;
+    margin: 7px;
 }
